@@ -1,0 +1,4 @@
+pydub
+asyncio
+websockets
+TTS
